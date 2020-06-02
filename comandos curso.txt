@@ -1,0 +1,17 @@
+
+
+npm install express
+
+$ npm install typescript -D
+
+npm install ts-node -D
+
+npx tsc --init
+
+npx ts-node src/server.ts
+
+npm install ts-node-dev -D
+
+npm run dev
+
+npx create-react-app web --template typrescript
