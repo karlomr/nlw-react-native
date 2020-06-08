@@ -1,4 +1,4 @@
-####  Projeto modelo elaborado pela Rockecseat em:
+####  Projeto modelo do treinamento elaborado pela Rockecseat:
 
 - React para Web e BackEnd
 - React Native para Mobile
