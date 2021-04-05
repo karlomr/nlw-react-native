@@ -1,4 +1,3 @@
 *.lock
-
 *.yarn.lock
 # /mobile
